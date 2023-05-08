@@ -1,0 +1,22 @@
+# Specific folders
+/bin/
+/.settings/
+/.classpath
+/.project
+
+# Specific files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.log
+*.iml
+*.ipr
+*.iws
+
+# Specific configuration files
+/target/
+/build/
