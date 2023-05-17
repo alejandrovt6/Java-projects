@@ -1,4 +1,4 @@
-/*
+/* 
 You have to make a program that will be an interactive guessing game. It will ask the
 user to guess a number between 1 and 99. The program will tell the user if their input is
 too high or too low. The game ends when the user finds out the secret number or types
